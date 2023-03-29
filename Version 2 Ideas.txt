@@ -1,0 +1,5 @@
+Business Requirements for Version 2 Ideas
+
+In version 2 of the music application, users will be able to create multiple playlists. The playlist feature will have 2 tables in the database. The 1st table will serve as a list of playlist ids to reference playlists. The 2nd table table will serve as an individual playlist itself, will will sport its special id, as well as list of song ids.
+
+In version 2 of the music application, user will have different versions of account which grants them different perks based on that type. This information will be saved as a single phase on the users account info. Code that run through privileges will be required to check on this piece on info to determine its availability.
